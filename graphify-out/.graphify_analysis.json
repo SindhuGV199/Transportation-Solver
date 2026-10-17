@@ -1,0 +1,244 @@
+{
+  "communities": {
+    "0": [
+      "eslint",
+      "hmr",
+      "oxc",
+      "react_compiler",
+      "react_svg",
+      "readme",
+      "swc",
+      "transportation_frontend_package_devdependencies",
+      "transportation_frontend_package_devdependencies_eslint",
+      "transportation_frontend_package_devdependencies_eslint_js",
+      "transportation_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "transportation_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "transportation_frontend_package_devdependencies_globals",
+      "transportation_frontend_package_devdependencies_types_react",
+      "transportation_frontend_package_devdependencies_types_react_dom",
+      "transportation_frontend_package_devdependencies_vite",
+      "transportation_frontend_package_devdependencies_vitejs_plugin_react",
+      "transportation_frontend_vite_config",
+      "typescript",
+      "typescript_eslint",
+      "vite",
+      "vite_svg",
+      "vitejs_plugin_react",
+      "vitejs_plugin_react_swc"
+    ],
+    "1": [
+      "controller_transportationcontroller_transportationcontroller_calculate",
+      "model_transportationrequest",
+      "model_transportationrequest_transportationrequest",
+      "model_transportationrequest_transportationrequest_getcosts",
+      "model_transportationrequest_transportationrequest_getcustomers",
+      "model_transportationrequest_transportationrequest_getdemand",
+      "model_transportationrequest_transportationrequest_getmethod",
+      "model_transportationrequest_transportationrequest_getsuppliers",
+      "model_transportationrequest_transportationrequest_getsupply",
+      "model_transportationrequest_transportationrequest_setcosts",
+      "model_transportationrequest_transportationrequest_setcustomers",
+      "model_transportationrequest_transportationrequest_setdemand",
+      "model_transportationrequest_transportationrequest_setmethod",
+      "model_transportationrequest_transportationrequest_setsuppliers",
+      "model_transportationrequest_transportationrequest_setsupply",
+      "postmapping",
+      "service_transportationservice_transportationservice_calculatetotalcost",
+      "string"
+    ],
+    "2": [
+      "favicon_svg",
+      "index_html",
+      "react",
+      "src_app",
+      "src_app_app",
+      "src_main",
+      "transportation_frontend_package_dependencies",
+      "transportation_frontend_package_dependencies_axios",
+      "transportation_frontend_package_dependencies_bootstrap",
+      "transportation_frontend_package_dependencies_lucide_react",
+      "transportation_frontend_package_dependencies_react",
+      "transportation_frontend_package_dependencies_react_dom"
+    ],
+    "3": [
+      "apache_maven",
+      "help_md",
+      "maven_parent_pom",
+      "oci_image",
+      "restful_web_service",
+      "spring_boot_devtools",
+      "spring_boot_maven_plugin",
+      "spring_mvc",
+      "spring_rest_services",
+      "spring_web",
+      "transportation_model_package"
+    ],
+    "4": [
+      "double",
+      "object",
+      "service",
+      "service_transportationservice",
+      "service_transportationservice_transportationservice",
+      "service_transportationservice_transportationservice_balanceandhandlerestrictions",
+      "service_transportationservice_transportationservice_calcpenalty",
+      "service_transportationservice_transportationservice_calculateleastcost",
+      "service_transportationservice_transportationservice_calculatenorthwest",
+      "service_transportationservice_transportationservice_calculatevogels",
+      "service_transportationservice_transportationservice_hasremaining"
+    ],
+    "5": [
+      "transportation_frontend_package",
+      "transportation_frontend_package_name",
+      "transportation_frontend_package_private",
+      "transportation_frontend_package_scripts",
+      "transportation_frontend_package_scripts_build",
+      "transportation_frontend_package_scripts_dev",
+      "transportation_frontend_package_scripts_lint",
+      "transportation_frontend_package_scripts_preview",
+      "transportation_frontend_package_type",
+      "transportation_frontend_package_version"
+    ],
+    "6": [
+      "controller_transportationcontroller",
+      "list",
+      "model_transportationresponse",
+      "model_transportationresponse_transportationresponse",
+      "model_transportationresponse_transportationresponse_getallocation",
+      "model_transportationresponse_transportationresponse_getsteps",
+      "model_transportationresponse_transportationresponse_gettotalcost",
+      "model_transportationresponse_transportationresponse_transportationresponse"
+    ],
+    "7": [
+      "bluesky_icon",
+      "discord_icon",
+      "documentation_icon",
+      "github_icon",
+      "icons_svg",
+      "social_icon",
+      "x_icon"
+    ],
+    "8": [
+      "controller_transportationcontroller_transportationcontroller",
+      "controller_transportationcontroller_transportationcontroller_test",
+      "crossorigin",
+      "getmapping",
+      "requestmapping",
+      "restcontroller"
+    ],
+    "9": [
+      "major_project_frontend_package",
+      "major_project_frontend_package_dependencies",
+      "major_project_frontend_package_dependencies_axios",
+      "major_project_frontend_package_dependencies_bootstrap",
+      "major_project_frontend_package_dependencies_lucide_react"
+    ],
+    "10": [
+      "springboottest",
+      "test",
+      "transportation_model_transportationmodelapplicationtests",
+      "transportation_model_transportationmodelapplicationtests_transportationmodelapplicationtests",
+      "transportation_model_transportationmodelapplicationtests_transportationmodelapplicationtests_contextloads"
+    ],
+    "11": [
+      "springbootapplication",
+      "transportation_model_transportationmodelapplication",
+      "transportation_model_transportationmodelapplication_transportationmodelapplication",
+      "transportation_model_transportationmodelapplication_transportationmodelapplication_main"
+    ],
+    "12": [
+      "hero_png"
+    ],
+    "13": [
+      "pkg_com_project_transportation_model"
+    ],
+    "14": [
+      "transportation_frontend_eslint_config"
+    ]
+  },
+  "cohesion": {
+    "0": 0.09057971014492754,
+    "1": 0.16339869281045752,
+    "2": 0.19696969696969696,
+    "3": 0.18181818181818182,
+    "4": 0.2909090909090909,
+    "5": 0.2,
+    "6": 0.39285714285714285,
+    "7": 0.2857142857142857,
+    "8": 0.3333333333333333,
+    "9": 0.4,
+    "10": 0.6,
+    "11": 0.6666666666666666,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0
+  },
+  "gods": [
+    {
+      "id": "model_transportationrequest_transportationrequest",
+      "label": "TransportationRequest",
+      "degree": 16
+    },
+    {
+      "id": "service_transportationservice_transportationservice",
+      "label": "TransportationService",
+      "degree": 11
+    },
+    {
+      "id": "model_transportationresponse_transportationresponse",
+      "label": "TransportationResponse",
+      "degree": 9
+    },
+    {
+      "id": "controller_transportationcontroller_transportationcontroller",
+      "label": "TransportationController",
+      "degree": 7
+    },
+    {
+      "id": "transportation_frontend_package_scripts",
+      "label": "scripts",
+      "degree": 5
+    },
+    {
+      "id": "react",
+      "label": "React",
+      "degree": 4
+    },
+    {
+      "id": "transportation_model_transportationmodelapplication_transportationmodelapplication",
+      "label": "TransportationModelApplication",
+      "degree": 3
+    },
+    {
+      "id": "transportation_model_transportationmodelapplicationtests_transportationmodelapplicationtests",
+      "label": "TransportationModelApplicationTests",
+      "degree": 3
+    },
+    {
+      "id": "vite",
+      "label": "Vite",
+      "degree": 3
+    },
+    {
+      "id": "vitejs_plugin_react",
+      "label": "@vitejs/plugin-react",
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "TransportationController",
+      "target": "TransportationService",
+      "source_files": [
+        "transportationmodel_backend/src/main/java/com/project/transportation_model/controller/TransportationController.java",
+        "transportationmodel_backend/src/main/java/com/project/transportation_model/service/TransportationService.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    }
+  ],
+  "tokens": {
+    "input": 18987,
+    "output": 7287
+  }
+}
