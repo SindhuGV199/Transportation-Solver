@@ -967,8 +967,19 @@ const displayedAllocation = selectedModiIteration?.allocation || modiResult;
 <h1 className="fw-bold mb-0 display-5">
   ₹{Math.round(
     objective === 'MAX'
-      ? (maxMValue * supply.reduce((a, b) => a + (parseFloat(b) || 0), 0) -
-          (selectedModiIteration?.objectiveValue ?? 0))
+      ? (displayedAllocation || []).reduce(
+          (profit, row, i) =>
+            profit +
+            (row || []).reduce(
+              (rowProfit, units, j) =>
+                rowProfit +
+                (i < numSuppliers && j < numCustomers
+                  ? (Number(units) || 0) * (Number(costs[i]?.[j]) || 0)
+                  : 0),
+              0
+            ),
+          0
+        )
       : (selectedModiIteration?.objectiveValue ?? totalCost)
   )}
 </h1>
